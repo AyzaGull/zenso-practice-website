@@ -1,2 +1,2 @@
 # zenso-practice-website
-A fully responsive HTML website called Zenao,built using HTML,CSS
+A fully responsive HTML website called Zenso,built using HTML,CSS
